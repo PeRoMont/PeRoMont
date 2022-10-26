@@ -7,3 +7,7 @@
 |- 💞️ Estou pronto para colaborar e solucionar o que vier pela frente com determinação e responsabilidade;
 
 |- 📫 Pode entrar em contato comigo através do meu email: rodrigomonteiropereira54@gmail.com
+
+
+
+![snake gif](https://github.com/PeRoMont/PeRoMont/blob/output/github-contribution-grid-snake.svg)
