@@ -1,6 +1,4 @@
 |- 👋 Olá! Bem-vindo(a) ao meu perfil do GitHub. O meu nome é Rodrigo Monteiro; 🦖
-![octocat-GitHub](https://user-images.githubusercontent.com/96454106/198145168-003ea077-4681-479e-bf2d-555586e72644.png)
-
 
 |- 👀 Tenho interesse na área de Back-end no qual eu tenho mais experiência, mas futuramente irei aprimorar as minhas habilidades nas tecnologias Fron-end;
 
@@ -20,3 +18,6 @@
 <b>| Contatos:</b><div> <a href="https://www.linkedin.com/in/rodrigo-monteiro-pereira-067b44237/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:rodrigomonteiropereira54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/pereira_mrodrigo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
+⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀
+  ![octocat-GitHub](https://user-images.githubusercontent.com/96454106/198145254-c3355deb-ec39-470c-bde2-0cf8ceb3b8a6.png)
