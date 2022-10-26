@@ -8,12 +8,11 @@
 
 |- 💞️ Estou pronto para colaborar e solucionar o que vier pela frente com determinação e responsabilidade;
 
-|- 📫 Pode entrar em contato comigo através do meu email: rodrigomonteiropereira54@gmail.com
-
 ![snake gif](https://github.com/PeRoMont/PeRoMont/blob/output/github-contribution-grid-snake.svg)
 
-|Ferramentas e Tecnologias:
+| Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 
 | Contatos:<div> <a href="www.linkedin.com/in/rodrigo-monteiro-pereira-067b44237" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:rodrigomonteiropereira54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
+<a href = "mailto:rodrigomonteiropereira54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/pereira_mrodrigo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
