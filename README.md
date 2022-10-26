@@ -12,6 +12,7 @@
 
 ![snake gif](https://github.com/PeRoMont/PeRoMont/blob/output/github-contribution-grid-snake.svg)
 
-Ferramentas e Tecnologias:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+|Ferramentas e Tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 
-Contatos:<div> <a href="www.linkedin.com/in/rodrigo-monteiro-pereira-067b44237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+| Contatos:<div> <a href="www.linkedin.com/in/rodrigo-monteiro-pereira-067b44237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
