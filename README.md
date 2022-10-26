@@ -6,7 +6,7 @@
 
 |- 🌱 Estou me aprimorando a cada dia na linguagem Python, e buscando conhecimento nas tecnologias de Banco de dados;
 
-|- 💞️ Estou pronto para colaborar e solucionar o que vier pela frente com determinação e responsabilidade;
+|- 💞️ Estou pronto para colaborar e solucionar o que vier pela frente com determinação e responsabilidade.
 
 ![snake gif](https://github.com/PeRoMont/PeRoMont/blob/output/github-contribution-grid-snake.svg)
 
