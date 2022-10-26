@@ -1,4 +1,6 @@
 |- 👋 Olá! Bem-vindo(a) ao meu perfil do GitHub. O meu nome é Rodrigo Monteiro; 🦖
+![octocat-GitHub](https://user-images.githubusercontent.com/96454106/198145168-003ea077-4681-479e-bf2d-555586e72644.png)
+
 
 |- 👀 Tenho interesse na área de Back-end no qual eu tenho mais experiência, mas futuramente irei aprimorar as minhas habilidades nas tecnologias Fron-end;
 
