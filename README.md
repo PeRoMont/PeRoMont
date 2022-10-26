@@ -19,5 +19,7 @@
 <a href = "mailto:rodrigomonteiropereira54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/pereira_mrodrigo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
 ⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀
   ⠀⠀⠀⠀⠀⠀⠀
   ![octocat-GitHub](https://user-images.githubusercontent.com/96454106/198145254-c3355deb-ec39-470c-bde2-0cf8ceb3b8a6.png)
