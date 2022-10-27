@@ -1,12 +1,12 @@
-|- 👋 Olá! Bem-vindo(a) ao meu perfil do GitHub. O meu nome é Rodrigo Monteiro; 🦖
+¬ 👋 Olá! Bem-vindo(a) ao meu perfil do GitHub. O meu nome é Rodrigo Monteiro; 🦖
 
-|- 👀 Tenho interesse na área de Back-end no qual eu tenho mais experiência, mas futuramente irei aprimorar as minhas habilidades nas tecnologias Fron-end (possuo habilidades básicas de HTML5 e CSS3);
+¬ 👀 Tenho interesse na área de Back-end no qual eu tenho mais experiência, mas futuramente irei aprimorar as minhas habilidades nas tecnologias Fron-end (possuo habilidades básicas de HTML5 e CSS3);
 
-| - 🔭 Atualmente estou cursando Ciência da Computação na UNIT e trabalho na Cencosud;
+¬ 🔭 Atualmente estou cursando Ciência da Computação na UNIT e trabalho na Cencosud;
 
-|- 🌱 Estou me aprimorando a cada dia na linguagem Python, e buscando conhecimento nas tecnologias de Banco de dados;
+¬ 🌱 Estou me aprimorando a cada dia na linguagem Python, e buscando conhecimento nas tecnologias de Banco de dados;
 
-|- 💞️ Estou pronto para colaborar e solucionar o que vier pela frente com determinação e responsabilidade.
+¬ 💞️ Estou pronto para colaborar e solucionar o que vier pela frente com determinação e responsabilidade.
 
 ![snake gif](https://github.com/PeRoMont/PeRoMont/blob/output/github-contribution-grid-snake.svg)
 
